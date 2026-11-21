@@ -1,0 +1,9 @@
+.revision_token
+*.pdf
+*.png
+*.jpg
+*.docx
+gen/
+fuentes/
+temario.txt
+ref/
